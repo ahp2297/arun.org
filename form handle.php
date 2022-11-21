@@ -2,7 +2,6 @@
 $name = $_POST['name'];
 $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
-$subject = $_POST['message'];
 $message = $_POST['message'];
 
 $email_form = 'https://ahp2297.github.io/arun.org/';
